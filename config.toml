@@ -4,6 +4,8 @@ title = 'Yahya SayadArbabi - Blog'
 
 theme = "cactus_theme"
 
+googleAnalytics = "UA-84369987-2"
+
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
