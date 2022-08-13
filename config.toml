@@ -1,0 +1,30 @@
+baseURL = 'https://theyahya.com/'
+languageCode = 'en-us'
+title = 'Yahya SayadArbabi - Blog'
+
+theme = "cactus_theme"
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Archive"
+url = "/blog"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[params]
+description = "I like 🖥 Computer, 📚Books, and 🎥 Movies! I will be writing about them here."
+
