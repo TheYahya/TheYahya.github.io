@@ -7,7 +7,7 @@ googleAnalytics = "G-SZWG7TS62Y"
 
 [params]
 colortheme = "white" # dark, light, white, or classic
-description = "I like 🖥 Computer, 📚 Books, and 🎥 Movies! I will be writing about them here."
+description = "I like 🖥 Computers, 📚 Books, and 🎥 Movies! I will be writing about them here."
 showAllPostsOnHomePage = true
 rss = true
 tocInline = true
