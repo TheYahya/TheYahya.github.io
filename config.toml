@@ -50,10 +50,6 @@ weight = 5
   link = "https://github.com/theyahya/"
 
 [[params.social]]
-  name = "linkedin"
-  link = "https://www.linkedin.com/in/theyahya/"
-
-[[params.social]]
   name = "twitter"
-  link = "https://twitter.com/TheYahya_"
+  link = "https://x.com/TheYahya_"
 
